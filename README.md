@@ -1,4 +1,4 @@
-# twitter-analysis
+# Twitter and Bitcoin Prices
 
 ## Overview
 

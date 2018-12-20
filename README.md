@@ -3,16 +3,18 @@
 ## Overview
 
 This features all of the code written for the paper "Twitter Does Not Predict the Stock Market". It features three primary components:
-(1) A python script used to acquire all of the Bitcoin data and put it into S3. This can be found in `src/python/stream/`
-(2) Java libraries that were done for all data preprocessing. These include
-    (a) `MainWriteSentimentToDynamo` - This is the class that takes in a string for MM-d which gets all tweets in that 10-day range, get their sentiment and upload it to Dynamo. For example,
+1. A python script used to acquire all of the Bitcoin data and put it into S3. This can be found in `src/python/stream/`
+2. Java libraries that were done for all data preprocessing. These include
+    * `MainWriteSentimentToDynamo` - This is the class that takes in a string for MM-d which gets all tweets in that 10-day range, get their sentiment and upload it to Dynamo. For example,
         passing in "10-1" will run that program for all days between October 10 - October 19. It aggregates by ten-minute interval.
-    (b) `MainWriteAggregatesToDynamo` - This is run after (a) and further aggregates the data in (a) and puts it into a new table
-    (c) `MainUploadBitcoinToDynamo` - This uploads the corresponding Bitcoin data by hour to the dynamo table.
-    (d) `MainRoundToHour` - This rounds the data gotten in (b) to the hour and reuploads it to Dynamo
-    (d) `BackTradeMain` - This runs the backtrade game described in the paper.
-    (e) `MainSlidingWindow` - This runs the sliding window approach described in the paper and outputs all of the data into csvs
-(3) Two python notebooks which contain all of the modeling described in the paper
+    * `MainWriteAggregatesToDynamo` - This is run after (a) and further aggregates the data in (a) and puts it into a new table
+    * `MainUploadBitcoinToDynamo` - This uploads the corresponding Bitcoin data by hour to the dynamo table.
+    * `MainRoundToHour` - This rounds the data gotten in (b) to the hour and reuploads it to Dynamo
+    * `BackTradeMain` - This runs the backtrade game described in the paper.
+    * `MainSlidingWindow` - This runs the sliding window approach described in the paper and outputs all of the data into csvs
+3. Two python notebooks which contain all of the modeling described in the paper
+
+## Data
 
 All of the data used in this project can be found:
 

@@ -1,0 +1,1306 @@
+{
+  "status":"ok",
+  "totalResults":337,
+  "articles":[
+    {
+      "source":{
+        "id":"ars-technica",
+        "name":"Ars Technica"
+      },
+      "author":"Cyrus Farivar",
+      "title":"Winklevoss twins claim famed crypto evangelist stole 5,000 bitcoins from them",
+      "description":"Charlie Shrem, who served time for illicit bitcoin deal, accused of 2012 theft.",
+      "url":"https://arstechnica.com/tech-policy/2018/11/winklevoss-twins-claim-famed-crypto-evangelist-stole-5000-bitcoins-from-them/",
+      "urlToImage":"https://cdn.arstechnica.net/wp-content/uploads/2018/11/GettyImages-486317685-760x380.jpg",
+      "publishedAt":"2018-11-04T14:00:29Z",
+      "content":"The Rise and Rise of Bitcoin during the 2014 Tribeca Film Festival at the SVA Theater on April 23, 2014, in New York City.\"/&gt; Enlarge / (L-R) Nathaniel Popper and Charlie Shrem attend Tribeca Talks: After The Movie: The Rise and Rise of Bitcoin during the … [+2803 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Gizmodo.com"
+      },
+      "author":"Brian Kahn on Earther, shared by Andrew Couts to Gizmodo",
+      "title":"Mining Bitcoin Can Be More of an Energy Drain Than Actual Mining",
+      "description":"Cryptocurrency and precious metals share some similarities. Libertarians love them. Their values are social constructs. They’re mined. And accomplishing said mining takes a ton of energy. Read more...",
+      "url":"https://earther.gizmodo.com/mining-bitcoin-can-be-more-of-an-energy-drain-than-actu-1830217426",
+      "urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--d0Btk-2X--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pxd2yeaxxzgypsorbm5m.jpg",
+      "publishedAt":"2018-11-05T17:13:00Z",
+      "content":"Cryptocurrency and precious metals share some similarities. Libertarians love them. Their values are social constructs. Theyre mined. And accomplishing said mining takes a ton of energy. But a new study published on Monday in Nature shows that crypto mining i… [+3728 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Gizmodo.com"
+      },
+      "author":"Rhett Jones",
+      "title":"Indian Teen Wanted FBI to Recover Stolen Bitcoin, So He Threatened to Blow Up Miami Airport: Reports",
+      "description":"This probably isn’t the best way to get the FBI’s attention. Read more...",
+      "url":"https://gizmodo.com/indian-teen-wanted-fbi-to-recover-stolen-bitcoin-so-he-1830225538",
+      "urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--3HHIVKqw--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/xr6dvesfpuyrucjdd7uk.jpg",
+      "publishedAt":"2018-11-05T16:49:00Z",
+      "content":"This probably isnt the best way to get the FBIs attention. Multiple outlets in India reported over the weekend that an unnamed 18-year-old boy from the Jalaun district is being charged with multiple crimes after he called the FBI about 50 times with bomb thre… [+2334 chars]"
+    },
+    {
+      "source":{
+        "id":"the-next-web",
+        "name":"The Next Web"
+      },
+      "author":"David Canellis",
+      "title":"Here’s what a Bitcoin address does (and why you definitely shouldn’t reuse it)",
+      "description":"Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and advice to keep you up to date in the cryptocurrency and blockchain world. Using a Bitcoin address for the first time is definitely cool, but it’s also a little confusing. Is it a wallet? I…",
+      "url":"https://thenextweb.com/hardfork/2018/11/05/bitcoin-address-explained/",
+      "urlToImage":"https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F11%2Fbitcoinaddress.jpg&signature=f75dc832c2e37be8718d9b454f1f6d31",
+      "publishedAt":"2018-11-05T16:36:59Z",
+      "content":"Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and advice to keep you up to date in the cryptocurrency and blockchain world. Using a Bitcoin BTC address for the first time is definitely cool, but its also a little confusing. Is it a wallet… [+3634 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Gizmodo.com"
+      },
+      "author":"Catie Keck",
+      "title":"Would You Pay $2,400 for a Laser Bong?",
+      "description":"If there is a God and he is indeed omniscient, it is also true that he foresaw the human race’s ability to create a great many things that would change the world, improve the overall quality of life here on Earth, and maybe even one day move beyond it. I can’…",
+      "url":"https://gizmodo.com/would-you-pay-2-400-for-a-laser-bong-1830214016",
+      "urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--ZuZ6PVMd--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/wnvw4lhap12laq3aa4i7.jpg",
+      "publishedAt":"2018-11-04T23:04:00Z",
+      "content":"If there is a God and he is indeed omniscient, it is also true that he foresaw the human races ability to create a great many things that would change the world, improve the overall quality of life here on Earth, and maybe even one day move beyond it. I cant … [+1387 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Slate.com"
+      },
+      "author":"Aaron Mak, Aaron Mak",
+      "title":"More Than a Dozen Verified Twitter Accounts Hacked to Impersonate Elon Musk, Steal Bitcoin",
+      "description":"More than a dozen verified Twitter accounts, including two belonging to members of Congress, were apparently hacked on Monday as a part of a scam to steal Bitcoin.",
+      "url":"https://slate.com/technology/2018/11/elon-musk-bitcoin-scam-hackers-impersonate-tesla-ceo-twitter-accounts.html",
+      "urlToImage":"https://compote.slate.com/images/a96333fa-b2fe-4dc7-84e3-914ab0256897.jpeg?width=780&height=520&rect=4200x2800&offset=171x0",
+      "publishedAt":"2018-11-05T21:42:54Z",
+      "content":"Musk has become a popular target for Twitter impersonators looking to steal Bitcoin. Why Are Pelvic Exams on Unconscious, Unconsenting Women Still Part of Medical Training? Humans on Twitter Are Starting to Behave an Awful Lot Like Bots Do Meet Three Dudes Wh… [+4595 chars]"
+    },
+    {
+      "source":{
+        "id":"the-next-web",
+        "name":"The Next Web"
+      },
+      "author":"Neer Varshney",
+      "title":"Indian teen threatens to blow up Miami airport to avenge stolen Bitcoin",
+      "description":"A high school student has been charged by authorities in India for threatening to blow up the Miami airport. The eighteen year old boy was unhappy with the US investigation agency FBI for not helping him recover a sum of Bitcoin he lost to a US-based fraudste…",
+      "url":"https://thenextweb.com/hardfork/2018/11/05/indian-bitcoin-miami-airport/",
+      "urlToImage":"https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F11%2FIndian-Bitcoin-Miami-Airport-1.png&signature=d7eb3e0c89eb871fc9db01b914c14dd5",
+      "publishedAt":"2018-11-05T09:30:30Z",
+      "content":"A high school student has been charged by authorities in India for threatening to blow up the Miami airport. The eighteen year old boy was unhappy with the US investigation agency FBI for not helping him recover a sum of Bitcoin BTC he lost to a US-based frau… [+1850 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Heise.de"
+      },
+      "author":"Tilman Wittenhorst",
+      "title":"Verbraucherzentralen warnen: Kryptowährungen bleiben riskant",
+      "description":"Kursgewinne bei Bitcoin und Co. haben mit schnellem Reichtum gelockt. Doch Verluste und zweifelhafte Anbieter machen Geschäfte mit Digitalwährungen riskant.",
+      "url":"https://www.heise.de/newsticker/meldung/Verbraucherzentralen-warnen-Kryptowaehrungen-bleiben-riskant-4210256.html?wt_mc=rss.ho.beitrag.atom",
+      "urlToImage":"https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/3/3/3/5/8/urn-newsml-dpa-com-20090101-140815-99-00941_large_4_3-9dfd78c17b2c2694.jpeg",
+      "publishedAt":"2018-11-04T10:26:18Z",
+      "content":"Dubiose Anbieter von Bitcoin und Co. versuchen Verbraucherschützern zufolge, in sozialen Medien zunehmend junge Anleger zu ködern. \"Sie locken offenbar gezielt jüngere Verbraucher, zum Beispiel mit einem vielversprechenden Investment rund um die neuen Kryptow… [+2323 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Marketwatch.com"
+      },
+      "author":"Aaron Hankin",
+      "title":"CryptoWatch: Bitcoin futures volatility sets record low",
+      "description":"Bitcoin opens Monday where it has kicked off the majority of recent sessions, trading mostly unchanged.",
+      "url":"https://www.marketwatch.com/story/bitcoin-futures-volatility-sets-record-low-2018-11-05",
+      "urlToImage":"http://s.marketwatch.com/public/resources/MWimages/MW-FR548_bitcoi_ZG_20170802134628.jpg",
+      "publishedAt":"2018-11-05T14:05:44Z",
+      "content":"Bitcoin opens Monday where it has kicked off the majority of recent sessions, trading mostly unchanged. Early Monday a single bitcoin BTCUSD, -0.06% was fetching $6,423.21, down 0.1% since 5 p.m. Eastern Time on Sunday on the Kraken crypto exchange. As bitcoi… [+1670 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Marketwatch.com"
+      },
+      "author":"Aaron Hankin",
+      "title":"In One Chart: From $100 to $1 million, here are the 11 most outrageous bitcoin predictions",
+      "description":"From $100 to $1 million, bitcoin predictions are all over the place.",
+      "url":"https://www.marketwatch.com/story/from-100-to-1-million-here-are-the-11-most-outrageous-bitcoin-predictions-2018-11-05",
+      "urlToImage":"http://s.marketwatch.com/public/resources/MWimages/MW-GX864_bitcoi_ZG_20181105153020.jpg",
+      "publishedAt":"2018-11-05T21:25:06Z",
+      "content":"Theres nothing quite like the bitcoin debate. In one corner, crypto evangelists insist that bitcoin will be nothing less than the next reserve currency or digital gold. In the other corner, traditionalists pour scorn on the notion that the technology will pre… [+2383 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Xataka.com"
+      },
+      "author":"Javier Pastor",
+      "title":"El último fraude con bitcoin demuestra que sigue habiendo miles de Elon Musk falsos en Twitter intentando robarte el dinero",
+      "description":"Vas a Twitter y ves un mensaje de Elon Musk en el que asegura que regala 10.000 bitcoins (hoy en día, 5,65 millones de euros). Teniendo en cuenta la fama de Elon en esta red social, casi te lo crees. Y ese es el problema: que hacerse pasar por el creador de T…",
+      "url":"https://www.xataka.com/seguridad/ultimo-fraude-bitcoin-demuestra-que-sigue-habiendo-miles-elon-musk-falsos-twitter-intentando-robarte-dinero",
+      "urlToImage":"https://i.blogs.es/f64057/elon12/840_560.jpg",
+      "publishedAt":"2018-11-05T15:01:45Z",
+      "content":"Vas a Twitter y ves un mensaje de Elon Musk en el que asegura que regala 10.000 bitcoins (hoy en día, 5,65 millones de euros). Teniendo en cuenta la fama de Elon en esta red social, casi te lo crees. Y ese es el problema: que hacerse pasar por el creador de T… [+3522 chars]"
+    },
+    {
+      "source":{
+        "id":"business-insider",
+        "name":"Business Insider"
+      },
+      "author":"Isobel Asher Hamilton",
+      "title":"10 things in tech you need to know today",
+      "description":"Good morning! This is the tech news you need to know this Monday. US President Donald Trump is \"looking at\" whether Amazon, Facebook, and Google are violating antitrust laws. In an interview with news site Axios, Trump said the $5 billion fine against Google …",
+      "url":"https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-november-5-2018-11",
+      "urlToImage":"https://amp.businessinsider.com/images/5a398d014aa6b509048b6079-750-375.jpg",
+      "publishedAt":"2018-11-05T08:24:18Z",
+      "content":"Tyler and Cameron Winklevoss are suing a cryptocurrency investor. Thomson Reuters Good morning! This is the tech news you need to know this Monday. US President Donald Trump is \"looking at\" whether Amazon, Facebook, and Google are violating antitrust laws. In… [+2456 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Nature.com"
+      },
+      "author":null,
+      "title":"‘Mining’ Bitcoin takes more energy than mining gold",
+      "description":"The cryptocurrency’s production generated about as much carbon dioxide over 30 months as 1 million cars in the same period.",
+      "url":"https://www.nature.com/articles/d41586-018-07283-3?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nature%2Frss%2Fcurrent+%28Nature+-+Issue%29",
+      "urlToImage":"https://media.nature.com/lw1024/magazine-assets/d41586-018-07283-3/d41586-018-07283-3_16243956.jpg",
+      "publishedAt":"2018-11-06T00:00:00Z",
+      "content":"People in South America were consuming products of the cacao tree the source of chocolate more than 5,000 years ago, according to analysis of prehistoric artefacts. Researchers have long known that cocoa was a ritual drink for the people of pre-Columbian Mexi… [+904 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Nature.com"
+      },
+      "author":null,
+      "title":"‘Mining’ Bitcoin takes more energy than mining gold",
+      "description":"The cryptocurrency’s production generated about as much carbon dioxide over 30 months as 1 million cars in the same period.",
+      "url":"https://www.nature.com/articles/d41586-018-07283-3",
+      "urlToImage":"https://media.nature.com/lw1024/magazine-assets/d41586-018-07283-3/d41586-018-07283-3_16243956.jpg",
+      "publishedAt":"2018-11-06T00:00:00Z",
+      "content":"People in South America were consuming products of the cacao tree the source of chocolate more than 5,000 years ago, according to analysis of prehistoric artefacts. Researchers have long known that cocoa was a ritual drink for the people of pre-Columbian Mexi… [+904 chars]"
+    },
+    {
+      "source":{
+        "id":"t3n",
+        "name":"T3n"
+      },
+      "author":"Kim Rixecker",
+      "title":"Bitcoin Cash: Was ihr über den bevorstehenden Hardfork wissen müsst",
+      "description":"Streit um die Zukunft von Bitcoin Cash: Am 15. November 2018 kommt es zu einem weiteren Hardfork der Kryptowährung. Da es mehrere konkurrierende Vorschläge gibt, bleibt unklar, welcher sich durchsetzen wird. Am 15. November 2018 soll es zum nächsten Hardfork …",
+      "url":"https://t3n.de/news/bitcoin-cash-abc-sv-hardfork-1122625/",
+      "urlToImage":"https://assets.t3n.sc/news/wp-content/uploads/2018/11/bitcoin-cash.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=36f2b90667eb559acd7288168ba04c3b",
+      "publishedAt":"2018-11-05T13:43:08Z",
+      "content":"Streit um die Zukunft von Bitcoin Cash: Am 15. November 2018 kommt es zu einem weiteren Hardfork der Kryptowährung. Da es mehrere konkurrierende Vorschläge gibt, bleibt unklar, welcher sich durchsetzen wird. Am 15. November 2018 soll es zum nächsten Hardfork … [+2954 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Breakermag.com"
+      },
+      "author":"By Greg Milner",
+      "title":"Making Sense Of Bitcoin's Insatiable Energy Appetite",
+      "description":"It was in 2013, midway through the decade inaugurated by Satoshi Nakamoto’s paper, that Guy Lane began to suspect that bitcoin was eating the world.",
+      "url":"https://breakermag.com/making-sense-of-bitcoins-insatiable-energy-appetite/",
+      "urlToImage":"https://breakermag.com/wp-content/uploads/2018/11/gigawatt-facility-in-WA.jpg?w=377",
+      "publishedAt":"2018-11-04T20:30:14Z",
+      "content":"This story is part of BREAKER’s week-long celebration of the bitcoin white paper, which is ten years old this week. It was in 2013, midway through the decade inaugurated by Satoshi Nakamotos paper, that Guy Lane began to suspect that bitcoin was eating the wo… [+7507 chars]"
+    },
+    {
+      "source":{
+        "id":"t3n",
+        "name":"T3n"
+      },
+      "author":"Kim Rixecker",
+      "title":"Bitcoin Cash: Das müsst ihr über den bevorstehenden Hardfork wissen",
+      "description":"Streit um die Zukunft von Bitcoin Cash: Am 15. November 2018 kommt es zu einem weiteren Hardfork der Kryptowährung. Da es mehrere konkurrierende Vorschläge gibt, bleibt unklar, welcher sich durchsetzen wird. Am 15. November 2018 soll es zum nächsten Hardfork …",
+      "url":"https://t3n.de/news/bitcoin-cash-das-muesst-ihr-ueber-den-bevorstehenden-hardfork-wissen-1122625/",
+      "urlToImage":"https://assets.t3n.sc/news/wp-content/uploads/2018/11/bitcoin-cash.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=36f2b90667eb559acd7288168ba04c3b",
+      "publishedAt":"2018-11-05T13:43:08Z",
+      "content":"Streit um die Zukunft von Bitcoin Cash: Am 15. November 2018 kommt es zu einem weiteren Hardfork der Kryptowährung. Da es mehrere konkurrierende Vorschläge gibt, bleibt unklar, welcher sich durchsetzen wird. Am 15. November 2018 soll es zum nächsten Hardfork … [+2954 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Shkspr.mobi"
+      },
+      "author":null,
+      "title":"Security issues on ArtChain",
+      "description":"One of the problems with the BlockChain goldrush is that it attracts a lot of people who don’t necessarily have the required technical skill to safely run a service. This in turn reduces trus…",
+      "url":"https://shkspr.mobi/blog/2018/11/security-issues-on-artchain/",
+      "urlToImage":"https://shkspr.mobi/blog/wp-content/uploads/2018/08/ArtChain-XSS-fs8.png",
+      "publishedAt":"2018-11-05T12:35:54Z",
+      "content":"One of the problems with the BlockChain goldrush is that it attracts a lot of people who don't necessarily have the required technical skill to safely run a service. This in turn reduces trust in the ecosystem. I'd like to discuss ArtChain.info - \"Certifying … [+4265 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Presse-citron.net"
+      },
+      "author":"Louise Millon",
+      "title":"Un millionnaire du Bitcoin veut construire une ville utopique aux USA",
+      "description":"Jeffrey Berns a dépensé plus de 170 millions de dollars afin d’acheter un terrain sur lequel il souhaite construire une ville futuriste basée sur la blockchain.",
+      "url":"https://www.presse-citron.net/millionnaire-bitcoin-construire-ville-utopique-usa/",
+      "urlToImage":"https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2018/11/millionnaire-ville-utopique.jpg",
+      "publishedAt":"2018-11-05T12:15:37Z",
+      "content":"Comme il la expliqué au New York Times, le millionnaire de 56 ans souhaite construire une ville quil nomme lui-même une « entité collaborative distribuée » basée sur la technologie de la blockchain. Au total, Jeffrey Berns a dépensé 170 millions de dollars, u… [+2107 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Billy Bambrough, Contributor, Billy Bambrough, Contributor https://www.forbes.com/sites/billybambrough/",
+      "title":"Looming Fork Pushed Bitcoin Cash Up Almost 40% Over The Weekend -- Here's Why",
+      "description":"Bitcoin cash, the fork of bitcoin created by a schism over block size last year, is about to fork again...",
+      "url":"https://www.forbes.com/sites/billybambrough/2018/11/05/looming-fork-pushed-bitcoin-cash-up-almost-40-over-the-weekend-heres-why/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F985931634%2F960x0.jpg%3Ffit%3Dscale",
+      "publishedAt":"2018-11-05T08:23:00Z",
+      "content":"Bitcoin cash, the fork of bitcoin created by a schism over block&amp;nbsp;size last year, is about to fork again and prices have risen sharply as a result&amp;nbsp; moving the wider altcoin market higher. Bitcoin cash, which has struggled against slumping val… [+4509 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Archdaily.com"
+      },
+      "author":"Niall Patrick Walsh",
+      "title":"Could Future Cities be Crypto Cities? A Nevada Desert Experiment May Give an Answer",
+      "description":"In a world increasingly obsessed with the potential of Blockchain (the decentralized technology behind Bitcoin), lawyer and cryptocurrency millionaire Jeffrey Berns has purchased an enormous 67,000-acre plot of the Nevada desert near Reno envisioned as an “ex…",
+      "url":"https://www.archdaily.com/905246/could-future-cities-be-crypto-cities-a-nevada-desert-experiment-may-give-an-answer",
+      "urlToImage":"https://images.adsttc.com/media/images/5be0/63f2/08a5/e5ff/8600/0185/large_jpg/1_CROP.jpg?1541432300",
+      "publishedAt":"2018-11-05T11:30:00Z",
+      "content":"via Tom Wiscombe Architecture In a world increasingly obsessed with the potential of Blockchain (the decentralized technology behind Bitcoin), lawyer and cryptocurrency millionaire Jeffrey Berns has purchased an enormous 67,000-acre plot of the Nevada desert … [+1954 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Techmeme.com"
+      },
+      "author":null,
+      "title":"Charlie Shrem, who spent a year in prison for helping people buy drugs online, is being sued by the Winklevoss twins for allegedly spending bitcoin he owed them (Nathaniel Popper/New York Times)",
+      "description":"Nathaniel Popper / New York Times : Charlie Shrem, who spent a year in prison for helping people buy drugs online, is being sued by the Winklevoss twins for allegedly spending bitcoin he owed them — Charlie Shrem went to prison in 2015 after he pleaded guilty…",
+      "url":"https://www.techmeme.com/181104/p9",
+      "urlToImage":"http://static01.nyt.com/images/2018/10/25/business/25BITCOIN01/merlin_145443009_4995bafd-8402-4c42-98ef-7bc8317bb287-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "publishedAt":"2018-11-05T02:15:01Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"engadget",
+        "name":"Engadget"
+      },
+      "author":"Munenori Taniguchi",
+      "title":"仮想通貨長者ウィンクルボス兄弟、5000BTC(約36億円)盗まれたと元Bitcoin財団メンバーを告訴",
+      "description":"元オリンピック選手で、Facebookの初期アイデアをマーク・ザッカーバーグに登用されたとして訴訟を起こして数十億円の賠償金を勝ち取り、暗号通貨Bitcoinで巨万の富を築いた勝ち組ツインズ、ウィンクルボス兄弟が、Bitcoin財団の一員だったチャーリー・シュレムに5000BTCを盗まれたとして訴訟を起こしました。ウィンクルボス兄弟のファンドは2012年、シュレムが運営する取引所Bitinstantへの投資として25万ドルを渡したものの、シュレムはその額すべてをBitinstantに投じなかったばかりか18万90…",
+      "url":"https://japanese.engadget.com/2018/11/05/5000btc-36-bitcoin/",
+      "urlToImage":"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F06c71260-e0cc-11e8-a43f-000bb4f57c84&client=a1acac3e1b3290917d92&signature=8838fd7d1938ee7b6a3cade57be64b2ed7c31098",
+      "publishedAt":"2018-11-05T09:00:00Z",
+      "content":"2012Bitinstant25Bitinstant189000Silk Road 200(22700)22 Bitcoin5000BTC 10(1130)"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Panos Mourdoukoutas, Contributor, Panos Mourdoukoutas, Contributor https://www.forbes.com/sites/panosmourdoukoutas/",
+      "title":"Bitcoin Price By Christmas -- A Bullish, A Bearish, And A Moderate Forecast",
+      "description":"Bitcoin price could reach as high as $12,629.15, and as low as $816.91.",
+      "url":"https://www.forbes.com/sites/panosmourdoukoutas/2018/11/04/bitcoin-price-by-christmas-a-bullish-a-bearish-and-a-moderate-forecast/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1060892516%2F960x0.jpg%3Ffit%3Dscale",
+      "publishedAt":"2018-11-04T13:36:00Z",
+      "content":"Share to facebook Share to twitter Share to linkedin Studio shot of a Bitcoin virtual currency with an electronic / computer circuit board background. Russia, Moscow The&amp;nbsp;price of&amp;nbsp;Bitcoin has been holding remarkably steady lately. For more th… [+7345 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Tomshardware.com"
+      },
+      "author":"Nathaniel Mott",
+      "title":"Cryptomining Eats More Energy Than Most Real Mining - Research",
+      "description":"Researchers found that mining several top cryptocurrencies, including Bitcoin and Ethereum, requires more energy than mining precious metals like gold.",
+      "url":"https://www.tomshardware.com/news/environmental-impact-cryptocurrency-mining,38023.html",
+      "urlToImage":"https://img.purch.com/o/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS9VL0wvNDk3NDY5L29yaWdpbmFsL0JpdGNvaW4tQ292ZXIuanBn",
+      "publishedAt":"2018-11-05T19:32:06Z",
+      "content":"Tech enthusiasts have plenty of reasons to dislike cryptocurrency miners. Their demand for GPUs during the Ethereum mining craze astronomically raised graphics card prices, their setups take a cryptocurrency from 'accessible to everyone' to 'you need to inves… [+1926 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Trefis Team, Contributor, Trefis Team, Contributor https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title":"How Low Could Bitcoin Fall If Activity Levels Remain Depressed?",
+      "description":"October was an uneventful period for cryptocurrencies, as a lack of any substantial developments in the industry resulted in the price of most cryptocurrencies largely remaining level for the period.",
+      "url":"https://www.forbes.com/sites/greatspeculations/2018/11/05/how-low-could-bitcoin-fall-if-activity-levels-remain-depressed/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fthumbnails%2Fblog_25%2Fpt_25_189836_o.jpg%3Ft%3D1541424783",
+      "publishedAt":"2018-11-05T13:33:00Z",
+      "content":"Share to facebook Share to twitter Share to linkedin Bitfarms signage sits on display next to racks of cryptocurrency mining rig components at the company's technology lab in Saint-Jean-sur-Richelieu, Quebec, Canada. Photographer: James MacDonald/Bloomberg Oc… [+12102 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Computerbase.de"
+      },
+      "author":"Aljoscha Reineking",
+      "title":"Bitcoin: Deutsche haben gespaltenes Verhältnis zum Kryptogeld",
+      "description":"Die Mehrheit der Internetnutzer stehen laut einer repräsentativen Befragung Kryptowährungen kritisch gegenüber. Nur jeder zehnte, dem Kryptowährung ein Begriff war, könnte sich überhaupt vorstellen, in eine virtuelle Währung zu investieren. Die Mehrheit der N…",
+      "url":"https://www.computerbase.de/2018-11/bitcoin-gespaltenes-verhaeltnis-kryptogeld/",
+      "urlToImage":"https://pics.computerbase.de/8/5/3/0/8/article-opengraph.jpg",
+      "publishedAt":"2018-11-05T12:02:00Z",
+      "content":"Die Mehrheit der Internetnutzer stehen laut einer repräsentativen Befragung Kryptowährungen kritisch gegenüber. Nur jeder zehnte, dem Kryptowährung ein Begriff war, könnte sich überhaupt vorstellen, in eine virtuelle Währung zu investieren. Die Mehrheit der N… [+2378 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Clubic.com"
+      },
+      "author":null,
+      "title":"Vous tenez à la planète ? Revendez vos Bitcoins !",
+      "description":"Les cryptomonnaies, un nouvel eldorado ? Pour leurs apôtres, peut-être. La planète, elle, apprécie moins. De nouvelles études dressent des prospectives peu engageantes quant aux conséquences écologiques...",
+      "url":"https://www.clubic.com/antivirus-securite-informatique/cryptage-cryptographie/crypto-monnaie/actualite-846977-tenez-planete-revendez-bitcoins-scientifiques.html",
+      "urlToImage":"https://pic.clubic.com/v1/images/1679612/raw",
+      "publishedAt":"2018-11-05T20:33:40Z",
+      "content":"Les cryptomonnaies, un nouvel eldorado ? Pour leurs apôtres, peut-être. La planète, elle, apprécie moins. De nouvelles études dressent des prospectives peu engageantes quant aux conséquences écologiques du minage intensif de Bitcoins et consorts. En fin de se… [+6847 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Presse-citron.net"
+      },
+      "author":"Jean-Guillaume",
+      "title":"A 11 ans, le fils du PDG de Google mine des crypto-monnaies",
+      "description":"Lors d’une conférence organisée par le New York Times, le PDG de Google Sundar Pichai a fait une révélation quelque peu originale : son fils de 11 ans lui aurait confié utiliser l’ordinateur familial pour miner des crypto-monnaies. Une telle anecdote qui fait…",
+      "url":"https://www.presse-citron.net/11-ans-fils-pdg-google-mine-crypto-monnaies/",
+      "urlToImage":"https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2018/08/bitcoin-2.jpg",
+      "publishedAt":"2018-11-05T14:00:26Z",
+      "content":"Lors d’une conférence organisée par le New York Times, le PDG de Google Sundar Pichai a fait une révélation quelque peu originale : son fils de 11 ans lui aurait confié utiliser l’ordinateur familial pour miner des crypto-monnaies. Une telle anecdote qui fait… [+1146 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Cnet.com"
+      },
+      "author":"Marrian Zhou",
+      "title":"Hackers reportedly target election officials, voter data ahead of midterms - CNET",
+      "description":"And they've apparently had some \"limited success.\"",
+      "url":"https://www.cnet.com/news/hackers-reportedly-target-election-officials-voter-data-ahead-of-midterms/",
+      "urlToImage":"https://cnet2.cbsistatic.com/img/-SDrzOcaonrpSdD7UtHyFpU2NIU=/724x407/2016/11/08/a4a083a2-feb3-4d2a-9007-2e087ccc8c9f/gettyimages-621758822.jpg",
+      "publishedAt":"2018-11-05T16:37:14Z",
+      "content":"The voting booths are ready for the midterm elections. Gregg Newton/AFP/Getty Images Voters aren't the only ones focused on the midterm elections. Hackers have targeted voter registration databases, election officials and networks across the country, accordin… [+1866 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Jeffrey Tucker, Contributor, Jeffrey Tucker, Contributor https://www.forbes.com/sites/jeffreytucker/",
+      "title":"Write A Bitcoin Obituary Now, Before It's Too Late",
+      "description":"Go ahead and write your bitcoin obituary. Become the 316th person on record to say something silly.",
+      "url":"https://www.forbes.com/sites/jeffreytucker/2018/11/05/write-a-bitcoin-obituary-now-before-its-too-late/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F935355436%2F960x0.jpg%3Ffit%3Dscale",
+      "publishedAt":"2018-11-05T19:52:00Z",
+      "content":"Share to facebook Share to twitter Share to linkedin Bitcoin in coffin. Fall of crypto currency. Currency quotes are falling. The market capitalization of crypto is 5% higher now than this date last year. That's a bit lower than the average historical return … [+11336 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Rachel Wolfson, Contributor, Rachel Wolfson, Contributor https://www.forbes.com/sites/rachelwolfson/",
+      "title":"Consumer Solutions From Coinbase And Others Aim To Attract Retail Investors To Cryptocurrency Market",
+      "description":"As more institutional investors enter the cryptocurrency market, retail investors are starting to lose interest. New consumer-grade products from Coinbase, Snowball and Abra aim to make it easy for retail investors to enter the cryptocurrency market.",
+      "url":"https://www.forbes.com/sites/rachelwolfson/2018/11/05/consumer-solutions-from-coinbase-and-others-aim-to-attract-retail-investors-to-cryptocurrency-market/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fthumbnails%2Fblog_5473%2Fpt_5473_746_o.jpg%3Ft%3D1541433602",
+      "publishedAt":"2018-11-05T16:00:00Z",
+      "content":"Share to facebook Share to twitter Share to linkedin Since the explosion of ICOs last year, the cryptocurrency market has undergone some noticeable changes. While the price of Bitcoin remains well below its all time high of 2017, institutional investors are r… [+13848 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":"Brian Kahn",
+      "title":"Mineração de bitcoin pode usar mais energia que a de metais, sugere estudo",
+      "description":"Criptomoedas e metais preciosos têm algumas semelhanças entre si. Uma delas é que ambos dependem de mineração, e essa mineração usa quantidades enormes de energia. Um novo estudo publicado nesta segunda-feira (5) na Nature mostra que a criptomineração é um pr…",
+      "url":"https://gizmodo.uol.com.br/mineracao-bitcoin-energia/",
+      "urlToImage":"https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/11/bitcoin-polui----o-970x546.jpg",
+      "publishedAt":"2018-11-05T21:19:43Z",
+      "content":"Criptomoedas e metais preciosos têm algumas semelhanças entre si. Uma delas é que ambos dependem de mineração, e essa mineração usa quantidades enormes de energia. Um novo estudo publicado nesta segunda-feira (5) na Nature mostra que a criptomineração é um pr… [+4272 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":"Brian Kahn",
+      "title":"Mineração de bitcoin pode usar mais energia que a de metais, sugere estudo",
+      "description":"Criptomoedas e metais preciosos têm algumas semelhanças entre si. Uma delas é que ambos dependem de mineração, e essa mineração usa quantidades enormes de energia. Um novo estudo publicado nesta segunda-feira (5) na Nature mostra que a criptomineração é um pr…",
+      "url":"https://gizmodo.uol.com.br/mineracao-de-bitcoin-pode-usar-mais-energia-que-a-de-metais-sugere-estudo/",
+      "urlToImage":"https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/11/bitcoin-polui-o-1260x710-1000x563.jpg",
+      "publishedAt":"2018-11-05T21:33:02Z",
+      "content":"Criptomoedas e metais preciosos têm algumas semelhanças entre si. Uma delas é que ambos dependem de mineração, e essa mineração usa quantidades enormes de energia. Um novo estudo publicado nesta segunda-feira (5) na Nature mostra que a criptomineração é um pr… [+4266 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Qz.com"
+      },
+      "author":"Michael J. Coren",
+      "title":"A verified Twitter account impersonating Elon Musk collected over $150,000",
+      "description":"Pantheon Books enjoys one of Twitter’s little blue badges that lets the public know it’s authentic. Around Nov. 5, the verified account appears to have…",
+      "url":"https://qz.com/1451226/a-twitter-account-impersonating-elon-musk-collected-over-150000/",
+      "urlToImage":"https://cms.qz.com/wp-content/uploads/2018/11/twitter.jpg?quality=75&strip=all&w=1400",
+      "publishedAt":"2018-11-05T20:08:57Z",
+      "content":"Pantheon Books enjoys one of Twitters little blue badges that lets the public know its authentic. Around Nov. 5, the verified account appears to have been hacked and modified to look like the personal account of Elon Musk. Then a tweet claimed that Musk was g… [+2266 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Coindesk.com"
+      },
+      "author":"Omkar Godbole",
+      "title":"Bitcoin Price Eyes Move to $6.8K After Bull Breakout",
+      "description":"Bitcoin could be about to make a move towards $6,800, having witnessed a bullish triangle breakout yesterday.",
+      "url":"https://www.coindesk.com/bitcoin-price-eyes-move-to-6-8k-after-bull-breakout/",
+      "urlToImage":"https://media.coindesk.com/uploads/2018/06/bitcoin.jpg",
+      "publishedAt":"2018-11-05T11:00:24Z",
+      "content":"Bitcoin could be about to make a move towards $6,800, having witnessed a bullish triangle breakout yesterday. The leading cryptocurrency, which had been in a narrowing price range, closed at $6,423 yesterday, confirming an upside breakout. With the move, the … [+2526 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Coindesk.com"
+      },
+      "author":"Michael J Casey",
+      "title":"Bitcoin's True Stress Test Is Yet to Come",
+      "description":"What happens if there's another 2008-scale financial market crisis? Will diehard HODLers still resist liquidating their bitcoin assets?",
+      "url":"https://www.coindesk.com/bitcoins-true-stress-test-is-yet-to-come/",
+      "urlToImage":"https://media.coindesk.com/uploads/2017/03/stress-ball.jpg",
+      "publishedAt":"2018-11-05T13:00:01Z",
+      "content":"Michael J. Casey is the chairman of CoinDesk's advisory board and a senior advisor for blockchain research at MIT's Digital Currency Initiative. The following article originally appeared in CoinDesk Weekly, a custom-curated newsletter delivered every Sunday e… [+5928 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Salon.com"
+      },
+      "author":"Philip Hackney, Brian Mittendorf",
+      "title":"Charities are taking digital money — but there are risks",
+      "description":"Charities are accepting millions — billions — of dollars worth of digital assets. But this could backfire",
+      "url":"https://www.salon.com/2018/11/04/charities-are-taking-digital-money-but-there-are-risks_partner/",
+      "urlToImage":"https://media.salon.com/2017/02/bitcoin-china.jpg",
+      "publishedAt":"2018-11-04T18:30:53Z",
+      "content":"Many large charities, despite being entrusted with accepting and managing funds that benefit the public, are accepting bitcoin and other cryptocurrencies volatile forms of digital money as donations. As experts in the tax and financial issues charities face, … [+6455 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Yogesh Kondaskar, CommunityVoice, Yogesh Kondaskar, CommunityVoice https://www.forbes.com/sites/forbestechcouncil/people/yogeshkondaskar/",
+      "title":"Four Blockchain Myths (Debunked)",
+      "description":"Blockchain is a game-changer in complex supply chains where end-to-end visibility of shipments was almost impossible to achieve.",
+      "url":"https://www.forbes.com/sites/forbestechcouncil/2018/11/05/four-blockchain-myths-debunked/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2018%2F11%2Fcanva-photo-editor-4-1-500x500.png",
+      "publishedAt":"2018-11-05T13:00:00Z",
+      "content":"Share to facebook Share to twitter Share to linkedin You've probably heard about blockchain -- the technology behind bitcoin -- which is an incorruptible decentralized digital ledger for recording transactions. Ever since the launch of bitcoin, blockchain has… [+8841 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Jonathan Chester, Contributor, Jonathan Chester, Contributor https://www.forbes.com/sites/jonathanchester/",
+      "title":"How Can We Increase Voter Turnout? Bitcoin May Be The Answer.",
+      "description":"Only 56% of the US voting age population cast ballots in the 2016 presidential election. It's not apathy, it's the friction involved in the process. So how will we finally be able to vote at home through our mobile devices? The blockchain technology behind Bi…",
+      "url":"https://www.forbes.com/sites/jonathanchester/2018/11/05/how-can-we-increase-voter-turnout-bitcoin-may-be-the-answer/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fjonathanchester%2Ffiles%2F2018%2F11%2Fhand-raised-for-voting-1200x943.jpg",
+      "publishedAt":"2018-11-05T14:00:00Z",
+      "content":"Share to facebook Share to twitter Share to linkedin Voting For Everyone https://www.publicdomainpictures.net/en/view-image.php?image=272089&amp;amp;picture=hand-raised-for-voting Only 56% of the US voting age population cast ballots in the 2016 presidential … [+25914 chars]"
+    },
+    {
+      "source":{
+        "id":"the-telegraph",
+        "name":"The Telegraph"
+      },
+      "author":"Sam Meadows",
+      "title":"Bitcoin scammers steal £120,000 after hacking the Twitter accounts of Matalan and Pathé UK",
+      "description":"Fraudsters have hacked the Twitter accounts of two British companies and stolen &pound;120,000, after posing as Silicon Valley entrepreneur Elon Musk and promoting a fake cryptocurrency giveaway.",
+      "url":"https://www.telegraph.co.uk/money/consumer-affairs/bitcoin-scammers-steal-120000-hacking-twitter-accounts-matalan/",
+      "urlToImage":"https://www.telegraph.co.uk/content/dam/money/2018/11/05/TELEMMGLPICT000021800728-xlarge_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7EbJWUPbTUqpPR3T9o9_GWk.jpeg",
+      "publishedAt":"2018-11-05T18:33:13Z",
+      "content":"F raudsters have hacked the Twitter accounts of two British companies and stolen £120,000, after posing as Silicon Valley entrepreneur Elon Musk and promoting a fake cryptocurrency giveaway. Clothing retailer Matalan and Pathé UK, the British arm of the Frenc… [+1130 chars]"
+    },
+    {
+      "source":{
+        "id":"the-guardian-au",
+        "name":"The Guardian (AU)"
+      },
+      "author":"Laurence Blair in Ciudad del Este",
+      "title":"Should Paraguay invest its energy wealth in bitcoin ‘mining’ or fighting poverty?",
+      "description":"The Itaipú dam is already enriching some, and they believe the country should invest more in cryptocurrency, while others argue it should spread Itaipú’s bounty more widely Shotgun-toting guards patrol an anonymous warehouse on the outskirts of Ciudad del Est…",
+      "url":"https://www.theguardian.com/global-development/2018/nov/05/should-paraguay-invest-its-energy-wealth-in-bitcoin-mining-or-fighting-poverty",
+      "urlToImage":"https://i.guim.co.uk/img/media/56e1354a9468517817d57e7ad3be4b668dad524e/0_0_5266_3159/master/5266.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=1547b5ea4fabb318fa5f5218c92d8383",
+      "publishedAt":"2018-11-05T07:00:05Z",
+      "content":"S hotgun-toting guards patrol an anonymous warehouse on the outskirts of Ciudad del Este. Perched on the triple border where Paraguay meets Brazil and Argentina, the melting-pot city is often associated with smuggling, cartels and drugs. But inside, a new hot… [+6136 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Coindesk.com"
+      },
+      "author":"Alyssa Hertig",
+      "title":"Builders on Wall Street: Bitcoin Devs Host Lightning Hack Day",
+      "description":"At the Lightning Hackday, it was hard to keep up with all the futuristic ideas for bitcoin's layer-two, but some devs are focusing on the basics.",
+      "url":"https://www.coindesk.com/builders-on-wall-street-bitcoin-devs-host-lightning-hack-day/",
+      "urlToImage":"https://media.coindesk.com/uploads/2018/11/LP.jpg",
+      "publishedAt":"2018-11-04T14:00:28Z",
+      "content":"It was described as \"not a normal conference.\" Sure, speakers took to the podium to present their futuristic ideas a staple at the cryptocurrency space's many, many conferences. But the Lightning Hackday, which took place in the heart of Wall Street on Octobe… [+5682 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Coindesk.com"
+      },
+      "author":"Brian Forde",
+      "title":"No, Bitcoin Isn't Secretly Messing with the Mid-Term Elections",
+      "description":"Take it from someone who's actually received crypto campaign donations.",
+      "url":"https://www.coindesk.com/no-bitcoin-isnt-secretly-messing-with-the-mid-term-elections/",
+      "urlToImage":"https://media.coindesk.com/uploads/2018/11/Screen-Shot-2018-11-04-at-11.09.02-PM-e1541391828165.png",
+      "publishedAt":"2018-11-05T08:00:00Z",
+      "content":"Brian Forde most recently ran for U.S. Congress in California's 45th district and was the founding Director of the Digital Currency Initiative at MIT. Previously, he was a Senior Tech Advisor in the Obama White House. On the eve of the most important election… [+6596 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Coindesk.com"
+      },
+      "author":"Aditi Hudli",
+      "title":"Musk Impostors Hack Lawmaker, Publisher Accounts in New Crypto Scams",
+      "description":"A number of verified Twitter accounts were hacked to look like Elon Musk's as part of an effort to defraud owners of bitcoin.",
+      "url":"https://www.coindesk.com/elon-musk-impostors-hack-us-lawmaker-book-publisher-in-twitter-scams/",
+      "urlToImage":"https://media.coindesk.com/uploads/2018/11/Elon_Musk.jpg",
+      "publishedAt":"2018-11-05T19:37:07Z",
+      "content":"A number of verified Twitter accounts were compromised Monday including those owned by a U.S. lawmaker, a film company, and a book publisher all to impersonate SpaceX and Tesla founder Elon Musk. Each of the compromised accounts engaged in a well-known crypto… [+4099 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Coindesk.com"
+      },
+      "author":"Aditi Hudli",
+      "title":"Elon Musk Impostors Score $176K (And Counting) in New Twitter Scams",
+      "description":"A number of verified Twitter accounts were hacked to look like Elon Musk's as part of an effort to defraud owners of bitcoin.",
+      "url":"https://www.coindesk.com/elon-musk-impostors-score-176k-and-counting-in-new-twitter-scams/",
+      "urlToImage":"https://media.coindesk.com/uploads/2018/11/Elon_Musk.jpg",
+      "publishedAt":"2018-11-05T19:37:07Z",
+      "content":"A number of verified Twitter accounts were compromised Monday including those owned by a U.S. lawmaker, a film company, and a book publisher all to impersonate SpaceX and Tesla founder Elon Musk. Each of the compromised accounts engaged in a well-known crypto… [+4088 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Hvper.com"
+      },
+      "author":null,
+      "title":" As Bitcoin Hits A Major Milestone, What Happens Now? via Hvper.com",
+      "description":"The Internet on one page. Successor of Popurls, the mother of news aggregators. By @thomas",
+      "url":"http://www.hvper.com/?ref=feed_fdf2bc9bad6bd7c40494dc7c7f10420f",
+      "urlToImage":"http://www.hvper.com/static/img/og_09.png",
+      "publishedAt":"2018-11-05T07:17:11Z",
+      "content":"Khlo Kardashian, Keeping Up with the Kardashians, Tristan Thompson, Kim... On this week's episode of Keeping Up With the Kardashians, we got to see the moment Kim Kardashian, Kourtney Kardashian, Kendall Jenner, and Kylie..."
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Fastcompany.com"
+      },
+      "author":"Cale Guthrie Weissman",
+      "title":"A fake verified “Elon Musk” tried to scam people out of bitcoin on Twitter",
+      "description":"Digital ad platforms have an impersonation problem. Just 18 hours ago, the publisher Pantheon Books was tweeting about, well, books. Read Full Story",
+      "url":"https://www.fastcompany.com/90262371/hacked-twitter-poses-as-elon-musk-and-scams-people-out-of-bitcoin?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcocreate%2Ffeed+%28Co.Create%29",
+      "urlToImage":"https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/11/p-1-hacked-twitter-poses-as-elon-musk-and-scams-people-out-of-bitcoin.jpg",
+      "publishedAt":"2018-11-05T10:49:51Z",
+      "content":"Just 18 hours ago, the publisher Pantheon Books was tweeting about, well, books. This morning, however, its Twitter avatar was Elon Musk and the account had been retweeting nearly everything the Tesla founder writes. This is not because Pantheon has an adorat… [+2322 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Bitcoinmagazine.com"
+      },
+      "author":"Landon Manning",
+      "title":"BitMEX Launches New Fork Monitoring Website to Keep Track of Bitcoin Forks",
+      "description":"BitMEX just launched a website to make it easier to keep tabs on hard and soft forks on the Bitcoin blockchain. According to a recent blog post, the research arm of BitMEX is sponsoring a new website, ForkMonitor.info, which is connected to 13 nodes of Bitcoi…",
+      "url":"https://bitcoinmagazine.com/articles/bitmex-launches-new-fork-monitoring-website-keep-track-bitcoin-forks/",
+      "urlToImage":"https://fs.bitcoinmagazine.com/img/images/bitmexfork.max-800x800.png",
+      "publishedAt":"2018-11-05T20:18:10Z",
+      "content":"BitMEX just launched a website to make it easier to keep tabs on hard and soft forks on the Bitcoin blockchain. According to a recent blog post, the research arm of BitMEX is sponsoring a new website, ForkMonitor.info, which is connected to 13 nodes of Bitcoi… [+1427 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Fayerwayer.com"
+      },
+      "author":"César Muñoz",
+      "title":"Así es Bullish, la plataforma chilena que busca unificar el ecosistema de criptomonedas",
+      "description":"Conversamos con el CEO de la plataforma, sobre el proyecto y el difícil momento de las criptomonedas. The post \" Así es Bullish, la plataforma chilena que busca unificar el ecosistema de criptomonedas \" appeared first on FayerWayer.",
+      "url":"https://www.fayerwayer.com/2018/11/bullish-criptomonedas-chile/",
+      "urlToImage":"https://media.metrolatam.com/2018/11/05/img201811051737171-6ac80d54dab8a4f5218d287533eba955-1200x800.jpg",
+      "publishedAt":"2018-11-05T17:35:28Z",
+      "content":"Comenzó con una mirada escéptica de las criptomonedas, pero al conocer blockchain se fue convenciendo poco a poco. Francisco Saez, estaba a la cabeza del proyecto UMBO (del que les hablamos hace un tiempo ), cuando empezó a hacer trading y se percató de un ni… [+6764 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Fastcompany.com"
+      },
+      "author":"Cale Guthrie Weissman",
+      "title":"A fake verified “Elon Musk” tried to scam people out of bitcoin on Twitter",
+      "description":"Digital ad platforms have an impersonation problem. Just 18 hours ago, the publisher Pantheon Books was tweeting about, well, books. Read Full Story",
+      "url":"https://www.fastcompany.com/90262371/hacked-twitter-poses-as-elon-musk-and-scams-people-out-of-bitcoin?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcoexist%2Ffeed+%28Co.Exist%29",
+      "urlToImage":"https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/11/p-1-hacked-twitter-poses-as-elon-musk-and-scams-people-out-of-bitcoin.jpg",
+      "publishedAt":"2018-11-05T10:49:51Z",
+      "content":"Just 18 hours ago, the publisher Pantheon Books was tweeting about, well, books. This morning, however, its Twitter avatar was Elon Musk and the account had been retweeting nearly everything the Tesla founder writes. This is not because Pantheon has an adorat… [+2322 chars]"
+    },
+    {
+      "source":{
+        "id":"bbc-news",
+        "name":"BBC News"
+      },
+      "author":"https://www.facebook.com/bbcnews",
+      "title":"Twitter: Fake Elon Musk scam spreads after accounts hacked",
+      "description":"Matalan, Pathe UK and Pantheon Books are all targeted to promote an ad using the Tesla boss's name.",
+      "url":"https://www.bbc.co.uk/news/technology-46097853",
+      "urlToImage":"https://ichef.bbci.co.uk/images/ic/1024x576/p06nfn03.jpg",
+      "publishedAt":"2018-11-05T19:11:28Z",
+      "content":"Media caption Who is Elon Musk? Several popular verified Twitter accounts have been hacked by scammers to promote an ad using Tesla boss Elon Musk's name and likeness. British fashion retailer Matalan, film distributor Pathe UK and US publisher Pantheon Books… [+3617 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Unwire.hk"
+      },
+      "author":"藍骨",
+      "title":"保加利亞政府職員收受 Bitcoin 賄賂 批出護照予烏克蘭人",
+      "description":"護照是在外國證明國籍的重要文件，因此對於批出護照予外國人，所有國家都絕不容許。不過最近有保加利亞政府職員就涉嫌收受 Bitcoin 賄賂，向烏克蘭人批出護照。 The post 保加利亞政府職員收受 Bitcoin 賄賂 批出護照予烏克蘭人 appeared first on 香港 UNWIRE.HK 玩生活．樂科技.",
+      "url":"https://unwire.hk/2018/11/04/bulgarian-officials-took-bitcoin-bribes-to-issue-passports-to-ukrainians/fun-tech/",
+      "urlToImage":"https://cdn.unwire.hk/wp-content/uploads/2018/11/bulgarian-passport-800x4001.jpg",
+      "publishedAt":"2018-11-04T12:00:16Z",
+      "content":": 4, 2018 • • Tags: Bitcoin,, Comments are closed."
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Yashu Gola",
+      "title":"Only 19% Chance Bitcoin Price Breaches $10,000 by June 2019: Traders",
+      "description":"A drop in the bitcoin price’s daily moves has lowered the market’s expectations of reclaiming a five-figure valuation anytime soon. Options Traders Not Bullish on Bitcoin Skew — a crypto analysis blog authored by two London-based derivative traders — claimed …",
+      "url":"https://www.ccn.com/only-19-chance-bitcoin-price-breaches-10000-by-june-2019-traders/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/07/look-at-bitcoin-invest-perplexed-not-sure-1024x683.jpg",
+      "publishedAt":"2018-11-05T23:58:04Z",
+      "content":"A drop in the bitcoin price’s daily moves has lowered the market’s expectations of reclaiming a five-figure valuation anytime soon. Options Traders Not Bullish on Bitcoin Skew — a crypto analysis blog authored by two London-based derivative traders — claimed … [+2576 chars]"
+    },
+    {
+      "source":{
+        "id":"wirtschafts-woche",
+        "name":"Wirtschafts Woche"
+      },
+      "author":"Wirtschaftswoche",
+      "title":"Verbraucherzentralen warnen: Kryptowährungen bleiben riskant",
+      "description":"Rasante Kursgewinne bei Bitcoin und Co. haben bei Anlegern Hoffnungen auf schnellen Reichtum geweckt. Doch nicht nur Kursabstürze - auch zweifelhafte Anbieter können Digitalwährungen zu einem riskanten Geschäft machen.",
+      "url":"https://www.wiwo.de/finanzen/vorsorge/verbraucherzentralen-warnen-kryptowaehrungen-bleiben-riskant/23354918.html",
+      "urlToImage":"https://www.wiwo.de/images/illustration-bitcoin/23354946/2-format11240.jpg",
+      "publishedAt":"2018-11-04T08:56:00Z",
+      "content":"Dubiose Anbieter von Bitcoin und Co. versuchen Verbraucherschützern zufolge, in sozialen Medien zunehmend junge Anleger zu ködern. Sie locken offenbar gezielt jüngere Verbraucher, zum Beispiel mit einem vielversprechenden Investment rund um die neuen Kryptowä… [+2252 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Yashu Gola",
+      "title":"Bitcoin Falls to 19th[!] in China’s Latest Blockchain Rankings",
+      "description":"A latest blockchain ranking report has put Bitcoin behind the new blockchain projects like EOS and Ethereum. The 6th Global Public Blockchain Technology Assessment Index, published by the China Electronic Information Industry Development (CCID), a government …",
+      "url":"https://www.ccn.com/bitcoin-falls-to-19th-in-chinas-latest-blockchain-rankings/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2017/04/Bitcoin-red-BG.jpg",
+      "publishedAt":"2018-11-04T14:24:47Z",
+      "content":"A latest blockchain ranking report has put Bitcoin behind the new blockchain projects like EOS and Ethereum. The 6th Global Public Blockchain Technology Assessment Index, published by the China Electronic Information Industry Development (CCID), a government … [+2709 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Joseph Young",
+      "title":"Bitcoin Cash Continues to Skyrocket 15% to $535, Volume Quintuples",
+      "description":"Ahead of its scheduled fork on November 15, the price of Bitcoin Cash (BCH) has increased by yet another 15 percent to $535. Yesterday, on November 3, CCN reported that the price of BCH surged by 12 percent from $425 to $477 ahead of its hard fork. The suppor…",
+      "url":"https://www.ccn.com/bitcoin-cash-continues-to-skyrocket-15-to-535-volume-quintuples/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/05/Bitcoin-Cash-1-1.jpg",
+      "publishedAt":"2018-11-04T12:06:26Z",
+      "content":"Ahead of its scheduled fork on November 15, the price of Bitcoin Cash (BCH) has increased by yet another 15 percent to $535. Yesterday, on November 3, CCN reported that the price of BCH surged by 12 percent from $425 to $477 ahead of its hard fork. The suppor… [+2751 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Joseph Young",
+      "title":"Bitcoin Cash Volume Surges 7x to $1.4 Billion in Crypto Market Recovey",
+      "description":"Major cryptocurrencies including Ethereum, Bitcoin Cash, and Litecoin have increased by more than 5 percent in value over the last 24 hours. The cryptocurrency market has started to demonstrate signs of recovery, as the daily trading volume of large digital a…",
+      "url":"https://www.ccn.com/bitcoin-cash-volume-surges-7x-to-1-4-billion-in-crypto-market-recovey/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2016/10/Wheel-spin-steam.jpg",
+      "publishedAt":"2018-11-05T09:15:57Z",
+      "content":"Major cryptocurrencies including Ethereum, Bitcoin Cash, and Litecoin have increased by more than 5 percent in value over the last 24 hours. The cryptocurrency market has started to demonstrate signs of recovery, as the daily trading volume of large digital a… [+2813 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Mimix.io"
+      },
+      "author":null,
+      "title":"Everything Old Isn't New Again (Yet)",
+      "description":"Comments",
+      "url":"http://mimix.io/retro/",
+      "urlToImage":null,
+      "publishedAt":"2018-11-04T01:13:30Z",
+      "content":"August 12, 2018 I’m pretty sure I was born a geek. I’ve always been interested in the latest technology, forever holding out hope that tomorrow’s inventions would make the world better than it is today. At the very least, maybe technology could one day make u… [+14018 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Cointelegraph.com"
+      },
+      "author":"Cointelegraph By William Suberg",
+      "title":"BitMEX Releases Fork Monitoring Tool in Run-Up to Bitcoin Cash Hard Fork",
+      "description":"Bitcoin Cash’s upcoming hard fork will form an initial focus for BitMEX’s new ForkMonitor, with the “focus” thereafter shifting to Bitcoin.",
+      "url":"https://cointelegraph.com/news/bitmex-releases-fork-monitoring-tool-in-run-up-to-bitcoin-cash-hard-fork",
+      "urlToImage":"https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yN2MwYjU3YjUwM2M4OGYxZTQ5ZTk0ZjA4ZTE2OWZmMi5qcGc=.jpg",
+      "publishedAt":"2018-11-05T12:02:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Numerama.com"
+      },
+      "author":"Marie Turcan",
+      "title":"Le compte Twitter de Pathé a été piraté pour devenir un faux compte Elon Musk d’arnaque aux bitcoins",
+      "description":"Le compte officiel des cinémas Pathé au Royaume-Uni a été piraté pendant quelques heures. [Lire la suite]",
+      "url":"https://www.numerama.com/tech/436838-le-compte-twitter-de-pathe-a-ete-pirate-pour-devenir-un-faux-compte-elon-musk-darnaque-aux-bitcoins.html",
+      "urlToImage":"https://www.numerama.com/content/uploads/2018/11/capture-decran-2018-11-05-a-10-27-41.png",
+      "publishedAt":"2018-11-05T10:13:16Z",
+      "content":"Le compte officiel des cinémas Pathé au Royaume-Uni a été piraté pendant quelques heures. Le compte Twitter officiel des cinémas Pathé au Royaume-Uni a été piraté pendant environ une heure, lundi 5 novembre 2018. Au lieu du célèbre coq sur fond jaune qui orna… [+2761 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Josiah Wilmoth",
+      "title":"Bitcoin Futures Volatility Hit Record Low in October: CBOE",
+      "description":"Bitcoin has been unusually stable in recent weeks, and the decrease in volatility has now reached historic levels in the futures markets. Bitcoin Volatility Hits Record Level in Futures Markets That’s according to Kevin Davitt, senior instructor for The Optio…",
+      "url":"https://www.ccn.com/bitcoin-futures-volatility-hit-record-low-in-october-cboe/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/11/bitcoin-stable-low-volatility-calm.jpg",
+      "publishedAt":"2018-11-05T21:21:42Z",
+      "content":"Bitcoin has been unusually stable in recent weeks, and the decrease in volatility has now reached historic levels in the futures markets. Bitcoin Volatility Hits Record Level in Futures Markets Thats according to Kevin Davitt, senior instructor for The Option… [+2489 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Yashu Gola",
+      "title":"Bitcoin Price Establishes New Weekly High But Slips into Bearish Correction",
+      "description":"On Monday, bitcoin underwent a bearish correction after establishing a new weekly high at 6440-fiat, falling close to 0.8 percent. Bitcoin Hits Weekly High The BTC/USD pair is trading in a bull trend above the 200-period simple moving average on hourly charts…",
+      "url":"https://www.ccn.com/bitcoin-price-establishes-new-weekly-high-but-slips-into-bearish-correction/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/11/ice-cream-fall-pavement-bitcoin-price-crypto.jpg",
+      "publishedAt":"2018-11-05T20:17:05Z",
+      "content":"On Monday, bitcoin underwent a bearish correction after establishing a new weekly high at 6440-fiat, falling close to 0.8 percent. Bitcoin Hits Weekly High The BTC/USD pair is trading in a bull trend above the 200-period simple moving average on hourly charts… [+2546 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Indianexpress.com"
+      },
+      "author":"Sagar Rajput",
+      "title":"Fraudster hacks into custom official’s email, demands bitcoins worth $ 838",
+      "description":"On August 12, The Indian Express had reported about unidentified cyber fraudsters being booked by Powai police after they allegedly hacked into the email account of an assistant commissioner of the customs department and sent out emails to his friends demandi…",
+      "url":"https://indianexpress.com/article/cities/mumbai/fraudster-hacks-into-custom-officials-email-demands-bitcoins-worth-838-5433882/",
+      "urlToImage":"https://images.indianexpress.com/2018/10/hacking_big_new.jpg?w=759",
+      "publishedAt":"2018-11-04T20:04:17Z",
+      "content":"Written by Sagar Rajput | Mumbai | Published: November 5, 2018 1:34:17 am (Representational image) AN INSPECTOR from the customs department recently fell prey to a cyber fraud after an unidentified person hacked his email and demanded bitcoins worth $838. On … [+1583 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Chip.de"
+      },
+      "author":"Redaktion CHIP/DPA",
+      "title":"Warnung vor Bitcoin & Co: Verbraucherschützer sehen zweifelhafte Anbieter",
+      "description":"Rasante Kursgewinne bei Bitcoin und Co. haben bei einigen Anlegern Hoffnungen auf schnellen Reichtum geweckt. Doch nicht nur Kursabstürze in diesem Jahr, sondern auch zweifelhafte Anbieter können Digitalwährungen zu einem riskanten Geschäft machen.",
+      "url":"https://www.chip.de/news/Warnung-vor-Bitcoin-und-Co-Verbraucherschuetzer-sehen-zweifelhafte-Anbieter_152131180.html",
+      "urlToImage":"https://www.chip.de/ii/1/0/0/2/8/4/9/0/8/91b14d84a82078fa.jpeg",
+      "publishedAt":"2018-11-04T07:55:00Z",
+      "content":"| Bitcoin-Experte beantwortet die wichtigsten Fragen zur Kryptowährung Play Video Rasante Kursgewinne bei Bitcoin und Co. haben bei einigen Anlegern Hoffnungen auf schnellen Reichtum geweckt. Doch nicht nur Kursabstürze in diesem Jahr, sondern auch zweifelhaf… [+2767 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Webrazzi.com"
+      },
+      "author":"Arden Papuççiyan",
+      "title":"Winklevoss kardeşler Charlie Shrem’i 5 bin bitcoin çalmakla suçladı",
+      "description":"2004 yılında Facebook kurucusu Mark Zuckerberg’e fikirlerini çaldığı iddiasıyla karşımıza çıkan Winklevoss kardeşler, yeni bir suçlama ile karşımızda. Kripto para ve bitcoin ile ilgili yaptıkları doğru yatırımlar ile milyarderlere dönüşen Winklevoss kardeşler…",
+      "url":"https://webrazzi.com/2018/11/05/winklevoss-kardesler-charlie-shremi-5-bin-bitcoin-calmakla-sucladi/",
+      "urlToImage":"https://webrazzi.com/wp-content/uploads/2018/11/Winklevoss.jpg",
+      "publishedAt":"2018-11-05T11:00:05Z",
+      "content":"2004 ylnda Facebook kurucusu Mark Zuckerberge fikirlerini çald iddiasyla karmza çkan Winklevoss kardeler, yeni bir suçlama ile karmzda. Kripto para ve bitcoin ile ilgili yaptklar doru yatrmlar ile milyarderlere dönüen Winklevoss kardeler, The New York Times ‘… [+1280 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Apkmania.live"
+      },
+      "author":"noreply@blogger.com (ANROED)",
+      "title":"IFS",
+      "description":"<!--Overview-->Free signal trading bitcoin dan cryptocurrency IFS di smartphone kamu! <!--end--> <!--Description-->Signal trading bitcoin cryptocurrency gratis IFS akurat dan merakyat bisa kalian download dari google play store sekarang!. Dapatkan info perger…",
+      "url":"https://www.apkmania.live/2018/11/ifs.html",
+      "urlToImage":"https://lh3.googleusercontent.com/AGCmwgHKzdLCLwk3LNjYa9Xf_80Fb6ilzWnI--U_p_NO-4KLUrzvOuziWm4r24uQ4w8=s72-c-h450",
+      "publishedAt":"2018-11-05T04:09:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Pedro Febrero",
+      "title":"(Op-ed) Bitcoin: 10 Years Of Survival Mode",
+      "description":"Hello guys, how’s it going? First, let me congratulate all Bitcoin holders. Your currency of choice to store value has been “alive” (as a whitepaper), for the past 10 years. And what a crazy ride it has been. It went from 0 to about USD 6200, which represents…",
+      "url":"https://www.ccn.com/op-ed-bitcoin-10-years-of-survival-mode/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/11/bitcoin-microchip.jpg",
+      "publishedAt":"2018-11-04T13:15:12Z",
+      "content":"Hello guys, how’s it going? First, let me congratulate all Bitcoin holders. Your currency of choice to store value has been “alive” (as a whitepaper), for the past 10 years. And what a crazy ride it has been. It went from 0 to about USD 6200, which represents… [+9508 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Yashu Gola",
+      "title":"Bitcoin Price Intraday Analysis: BTC/USD in Tether-Linked Breakout Action",
+      "description":"Bitcoin on Sunday jumped 2.13 percent against the US Dollar as USD-pegged cryptocurrency tether (USDT) resumed its implosion. BTC/USD was in a sideways sentiment for most of the weekend trading session. The bearish trendline has capped the upside bias on mult…",
+      "url":"https://www.ccn.com/bitcoin-price-intraday-analysis-btc-usd-in-tether-linked-breakout-action/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/09/tether-usdt-stablecoin.jpg",
+      "publishedAt":"2018-11-04T19:25:22Z",
+      "content":"Bitcoin on Sunday jumped 2.13 percent against the US Dollar as USD-pegged cryptocurrency tether (USDT) resumed its implosion. BTC/USD was in a sideways sentiment for most of the weekend trading session. The bearish trendline has capped the upside bias on mult… [+2649 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Jimmy Aki",
+      "title":"Busted: Bulgarian Officials Caught Selling Passports for Bitcoin",
+      "description":"Authorities in Bulgaria have clamped down on the shady sale of international passports to foreigners from some parts of Eastern Europe in exchange for bitcoin. Erring citizens of Bulgaria, Ukraine, Moldova, and Macedonia have been allegedly involved in the pe…",
+      "url":"https://www.ccn.com/busted-bulgarian-officials-caught-selling-passports-for-bitcoin/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/11/Bulgaria-passport.jpg",
+      "publishedAt":"2018-11-04T07:48:51Z",
+      "content":"Authorities in Bulgaria have clamped down on the shady sale of international passports to foreigners from some parts of Eastern Europe in exchange for bitcoin. Erring citizens of Bulgaria, Ukraine, Moldova, and Macedonia have been allegedly involved in the pe… [+2553 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Gerelyn Terzo",
+      "title":"Andreas Antonopoulos Calls Out Bitly for “Blacklisting” Crypto Sites",
+      "description":"Andreas M. Antonopoulos, the author of “Mastering Bitcoin” and a self-proclaimed “computer geek” who has dedicated his career to bitcoin, has a bone to pick with Bitly, the web-link shortening service. Bitly has seemingly blacklisted cryptocurrency sites from…",
+      "url":"https://www.ccn.com/andreas-antonopoulos-calls-out-bitly-for-blacklisting-crypto-sites/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/06/eos-mainnet-bug-blockchain-red-light-stop.jpg",
+      "publishedAt":"2018-11-05T14:34:35Z",
+      "content":"Andreas M. Antonopoulos, the author of “Mastering Bitcoin” and a self-proclaimed “computer geek” who has dedicated his career to bitcoin, has a bone to pick with Bitly, the web-link shortening service. Bitly has seemingly blacklisted cryptocurrency sites from… [+3065 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Impress.co.jp"
+      },
+      "author":null,
+      "title":"GMO、10月マイニング報酬は595BTC・875BCHで4億6479万円相当 〜ハッシュレートも順調に674PH/sまで上昇、12月末には800PH/sまで上がる見通し",
+      "description":"GMOインターネット株式会社は11月5日、同社の仮想通貨マイニング事業の10月月次業績の速報値を発表した。10月のマイニング報酬は、Bitcoin（BTC）が595BTC、Bitcoin Cash（BCH）が875BCHとなった。10月末時点の仮想通貨レートで仮に算出すると、報酬金額はBTCが4億2293万6115円相当（1BTC＝71万817円換算）、BCHが4185万2125円相当（1BCH＝4万7831円換算）となる。",
+      "url":"https://crypto.watch.impress.co.jp/docs/news/1151660.html",
+      "urlToImage":"https://crypto.watch.impress.co.jp/img/ctw/list/1151/660/image01.png",
+      "publishedAt":"2018-11-05T07:46:34Z",
+      "content":"GMO1151010BitcoinBTC595BTCBitcoin CashBCH875BCH10BTC4229361151BTC71817BCH418521251BCH47831 11,00010674PH/s BTC BCH /BTC /BCH PH/s '1712 21 213 1,682,581 288,439 22 '1801 93 25 1,093,163 159,348 27 '1802 124 287 1,132,780 131,655 108 '1803 295 12 740,777 73,77… [+233 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Sueddeutsche.de"
+      },
+      "author":"Süddeutsche.de GmbH, Munich, Germany",
+      "title":"Kryptowährungen: Warnung vor Bitcoin und Co.",
+      "description":"Mehr auf SZ.de",
+      "url":"https://www.sueddeutsche.de/wirtschaft/kryptowaehrungen-warnung-vor-bitcoin-und-co-1.4196819",
+      "urlToImage":"https://media-cdn.sueddeutsche.de/pagelayout/assets/img/sz-share-graphic.png?v=20180918",
+      "publishedAt":"2018-11-04T17:50:06Z",
+      "content":"\"Niemand weiß, welche Kämpfe man im Privaten kämpft\" Wenn sie nicht gerade dreht, wundert sich Collien Ulmen-Fernandes darüber, woher ihre sechsjährige Tochter ihre Vorurteile hat. Ein Gespräch über Geschlechterstereotype, verächtliche T-Shirts und die Arbeit… [+15 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Cointelegraph.com"
+      },
+      "author":"Cointelegraph By Rakesh Upadhyay",
+      "title":"Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, TRON: Price Analysis, November 5",
+      "description":"Predictions vary as some traders wonder whether a Bitcoin end-of-year rally will come as it has in previous years. What are the key levels to watch?",
+      "url":"https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-november-5",
+      "urlToImage":"https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMWZkNDA5ZTE3MDFhMDViMDlmMGIxNDlkYWExNWNjNC5qcGc=.jpg",
+      "publishedAt":"2018-11-05T21:52:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Mobilmania.cz"
+      },
+      "author":"David Polesný, Jakub Čížek",
+      "title":"Týden Živě: Novinky Applu, eObčanka a zrádná kalkulačka ve Windows",
+      "description":"Apple ukázal nový iPad PRo • A také nový Macbook Air a Mac mini • Stát má novou appku k eObčance pro mobil",
+      "url":"https://www.mobilmania.cz/clanky/tyden-zive-novinky-applu-eobcanka-a-zradna-kalkulacka-ve-windows/sc-3-a-1343356/default.aspx",
+      "urlToImage":"https://www.mobilmania.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=987556148",
+      "publishedAt":"2018-11-04T15:00:00Z",
+      "content":"Apple ukázal nový iPad Pro, prý do kapsy strí vtinu notebook. Bitcoin slaví deset let. Firmy se chlubily hospodaením v posledním tvrtletí a zase rekordn vydlávaly, U je to troku nuda, e? Chcete pouívat na poítai kalkulaku? Kupte si radji Macbook Air, tam toti… [+48 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Coindesk.com"
+      },
+      "author":"Yogita Khatri",
+      "title":"Hackers Behind $60 Million Zaif Crypto Exchange Theft May Have Been Exposed",
+      "description":"Cybersecurity experts from Mitsubishi Group say they may have identified data that could locate the hackers of the Zaif crypto exchange.",
+      "url":"https://www.coindesk.com/hackers-behind-60-million-zaif-crypto-exchange-theft-may-have-been-exposed/",
+      "urlToImage":"https://media.coindesk.com/uploads/2015/10/Tokyo.jpg",
+      "publishedAt":"2018-11-05T14:35:24Z",
+      "content":"Cybersecurity experts at Japan Digital Design, a subsidiary of Mitsubishi UFJ Financial Group (MUFG), say they've found possibly revealing information on the bad actors behind the $60 million hack of Japanese crypto exchange Zaif. The company announced in a p… [+2379 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Dailydot.com"
+      },
+      "author":"Mikael Thalen",
+      "title":"Teen threatened to blow up airport to get FBI to investigate his missing Bitcoin",
+      "description":"Teen threatens to blow up airport after losing $1,000 in cryptocurrency The post Teen threatened to blow up airport to get FBI to investigate his missing Bitcoin appeared first on The Daily Dot.",
+      "url":"https://www.dailydot.com/debug/teen-bitcoin-fbi-miami-airport-threats/",
+      "urlToImage":"https://www.dailydot.com/wp-content/uploads/2018/11/airplane-palm-trees-1024x512.jpg",
+      "publishedAt":"2018-11-05T19:41:47Z",
+      "content":"A teenager in India could face charges after making bomb threats in an attempt to get the FBI to investigate his stolen Bitcoin, Gizmodo reports. The unnamed 18-year-old male, according to Indian media outlets, called the FBI as many as 50 times and vowed to … [+1800 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"P. H. Madore",
+      "title":"Mainstream? Gwyneth Paltrow Promotes Bitcoin Investing Guide on Twitter",
+      "description":"Celebrities and cryptocurrency have a long and complex history together. Seemingly everyone from boxers to rappers has publicly supported or even endorsed various types of cryptos, from ICOs to bitcoin proper. DJ Khaled and Floyd Mayweather have even been sue…",
+      "url":"https://www.ccn.com/mainstream-gwyneth-paltrow-promotes-bitcoin-investing-guide-on-twitter/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/11/gwyneth-paltrow-bitcoin.jpg",
+      "publishedAt":"2018-11-05T22:24:34Z",
+      "content":"Celebrities and cryptocurrency have a long and complex history together. Seemingly everyone from boxers to rappers has publicly supported or even endorsed various types of cryptos, from ICOs to bitcoin proper. DJ Khaled and Floyd Mayweather have even been sue… [+3116 chars]"
+    },
+    {
+      "source":{
+        "id":"wirtschafts-woche",
+        "name":"Wirtschafts Woche"
+      },
+      "author":"Martin Gerth, Sebastian Kirsch",
+      "title":"Zinskartell-Opfer, Rechtsschutz bei Studienplatzsuche, Bitcoin-Urteil: Die Steuer- und Rechtstipps der Woche",
+      "description":"Zinskartell mehrerer Banken, Streit um Studienplatz bei Rechtsschutzversicherung ausgeschlossen und ein Expertenrat zum Thema Bitcoins. Die Steuer- und Rechtstipps der Woche.",
+      "url":"https://www.wiwo.de/my/finanzen/steuern-recht/steuern-und-recht-kompakt-zinskartell-opfer-rechtsschutz-bei-studienplatzsuche-bitcoin-urteil/23308512.html",
+      "urlToImage":"https://www.wiwo.de/images/imago85916603h/23313404/2-format11240.jpg",
+      "publishedAt":"2018-11-05T05:00:00Z",
+      "content":"Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei veröffentlichen. Leider verweigern Sie uns diese Einnahmen. Wen… [+112 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Apkmania.live"
+      },
+      "author":"noreply@blogger.com (chathu_ac)",
+      "title":"Genxpay",
+      "description":"<!--Overview-->Genxpay is an online trading platform for the Crypto-currency and Bitcoin <!--end--> <!--Description-->Genxpay is an online trading platform for the Crypto-currency and Bitcoin community. We facilitate the trade of bitcoins (or any crypto-curre…",
+      "url":"https://www.apkmania.live/2018/11/genxpay.html",
+      "urlToImage":"https://lh3.googleusercontent.com/AilUUxqsuVXwG1G9u9gqDuhYrjvatZ3QwC0PTdSdLA8ROiSEh8A-8JJAiWqP9FbjY-M-=s72-c-h450",
+      "publishedAt":"2018-11-04T03:33:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Cointelegraph.com"
+      },
+      "author":"Cointelegraph By Helen Partz",
+      "title":"Bitcoin Cash Spikes 20 Percent in the Wake of Upcoming Hard Fork Backed by Binance",
+      "description":"Bitcoin Cash has spiked 20 percent in the wake of an upcoming hard fork supported by now-second largest exchange Binance.",
+      "url":"https://cointelegraph.com/news/bitcoin-cash-spikes-20-percent-in-the-wake-of-upcoming-hard-fork-backed-by-binance",
+      "urlToImage":"https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yZjJjMTAxYWE3NWJlZWJiNzJhNWMzMTYzMDI5MDM5ZC5qcGc=.jpg",
+      "publishedAt":"2018-11-04T17:41:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Cointelegraph.com"
+      },
+      "author":"Cointelegraph By Ana Berman",
+      "title":"Ex-Fed. Prosecutor Turned Crypto VC Katie Haun: Crypto Is in the ‘Dial-up Days’",
+      "description":"Ex-U.S. federal prosecutor and crypto bull Katie Haun takes on Nobel-winning economist and Bitcoin bear Paul Krugman in recent debate on crypto’s future",
+      "url":"https://cointelegraph.com/news/ex-fed-prosecutor-turned-crypto-vc-katie-haun-crypto-is-in-the-dial-up-days",
+      "urlToImage":"https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84OTVkMmQ4MDJmMWUzNTMwODNiYWI3YzRlOTg5YmM2Yy5qcGc=.jpg",
+      "publishedAt":"2018-11-05T17:20:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"99bitcoins.com"
+      },
+      "author":"Ofir Beigel",
+      "title":"Bitcoin News Summary – November 5, 2018",
+      "description":"The post Bitcoin News Summary – November 5, 2018 appeared first on 99 Bitcoins. Here’s what happened this week in Bitcoin in 99 seconds. ﻿﻿ Former US congressman and famous Libertarian, Ron Paul, advocated for the abolition of all taxation on cryptocurrencies…",
+      "url":"https://99bitcoins.com/bitcoin-news-summary-november-5-2018/",
+      "urlToImage":"https://99bitcoins.com/wp-content/uploads/2018/11/bzpoqcusyy4.jpg",
+      "publishedAt":"2018-11-05T07:18:29Z",
+      "content":"Heres what happened this week in Bitcoin in 99 seconds. Former US congressman and famous Libertarian, Ron Paul, advocated for the abolition of all taxation on cryptocurrencies. Paul said such a move may prevent recession. He also supported President Trumps re… [+1417 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Cointelegraph.com"
+      },
+      "author":"Cointelegraph By Marie Huillet",
+      "title":"Crypto Markets See Widespread Wave of Green, Bitcoin Pushes $6,500",
+      "description":"Crypto markets are seeing a wave of growth, with all of the top twenty coins by market cap in the green, and solid BTC 24-hour trade volumes of $4.3 billion",
+      "url":"https://cointelegraph.com/news/crypto-markets-see-widespread-wave-of-green-bitcoin-pushes-6-500",
+      "urlToImage":"https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNzExNzQ5NjExOWIwYzI4YTNkMmI4YTNkN2Q5ZDVmYS5qcGc=.jpg",
+      "publishedAt":"2018-11-05T15:30:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Adslzone.net"
+      },
+      "author":"Carlos González",
+      "title":"Una falsa cuenta de Elon Musk regala 10.000 Bitcoin",
+      "description":"De ser cierto estaríamos hablando de algo más de 5,6 millones de euros. En la red social Twitter, usuarios de todo el mundo se están encontrando con un tweet en el que se habla de 10.000 Bitcoin de regalo. El tweet, según lo que aparenta, es de Elon Musk. Es …",
+      "url":"https://www.adslzone.net/2018/11/05/estafa-elon-musk-twitter-btc/",
+      "urlToImage":"https://www.adslzone.net/app/uploads/2018/11/elon-musk.jpg",
+      "publishedAt":"2018-11-05T10:00:03Z",
+      "content":"De ser cierto estaríamos hablando de algo más de 5,6 millones de euros. En la red social Twitter, usuarios de todo el mundo se están encontrando con un tweet en el que se habla de 10.000 Bitcoin de regalo. El tweet, según lo que aparenta, es de Elon Musk. Es … [+2033 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Billy Bambrough, Contributor, Billy Bambrough, Contributor https://www.forbes.com/sites/billybambrough/",
+      "title":"Ethereum Price Jumps On Major Bank Approval And Approaching Proof-Of-Stake",
+      "description":"Ethereum has risen sharply after the cryptocurrency's founder Vitalik Buterin signaled a switch to so-called proof-of-stake is \"no longer so far away\"...",
+      "url":"https://www.forbes.com/sites/billybambrough/2018/11/05/ethereum-price-jumps-on-major-bank-approval-and-approaching-proof-of-stake/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F500445686%2F960x0.jpg%3Ffit%3Dscale",
+      "publishedAt":"2018-11-05T10:37:00Z",
+      "content":"Ethereum has risen sharply after the cryptocurrency's founder&amp;nbsp;Vitalik Buterin signaled a switch to so-called proof-of-stake is&amp;nbsp;&amp;quot;no longer so far away,&amp;quot; topping off a strong week for ethereum that began with U.S. bank JP Mor… [+5279 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Www.nrc.nl"
+      },
+      "author":"Dorine Schenk",
+      "title":"Bitcoins delven energieslurpender dan goud delven",
+      "description":"Cryptovaluta: Digitale cryptomunten, zoals bitcoins, delf je, net als goud. Daarvoor blijkt meer energie nodig dan voor andere delfstoffen.",
+      "url":"https://www.nrc.nl/nieuws/2018/11/05/bitcoins-delven-kost-meer-energie-dan-het-delven-van-goud-a2753958",
+      "urlToImage":"https://images.nrc.nl/RvGye-xFkXXw-Q1_fAi3RNvzzgo=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data37984972-c47951.jpg",
+      "publishedAt":"2018-11-05T16:01:22Z",
+      "content":"De energiekosten die nodig zijn voor het delven van digitale munten, in de vorm van elektriciteit voor computerkracht, zijn soms groter dan de benodigde energiekosten voor het delven van delfstoffen. Dat schrijven Amerikaanse onderzoekers maandag in een artik… [+3313 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Bitcoinmagazine.com"
+      },
+      "author":"Jimmy Aki",
+      "title":"China's Central Bank Wants to Put the Damper Airdrops: Report",
+      "description":"The People's Bank of China (PBoC), China's central bank, has its eyes on cryptocurrency companies that run airdrop campaigns in the country. In its most recent financial stability report for 2018, which was published on Friday, November 3, 2018, the bank said…",
+      "url":"https://bitcoinmagazine.com/articles/chinas-central-bank-wants-put-damper-airdrops-report/",
+      "urlToImage":"https://fs.bitcoinmagazine.com/img/images/airdrop.max-800x800.png",
+      "publishedAt":"2018-11-05T19:04:02Z",
+      "content":"The People's Bank of China (PBoC), China's central bank, has its eyes on cryptocurrency companies that run airdrop campaigns in the country. In its most recent financial stability report for 2018, which was published on Friday, November 3, 2018, the bank said… [+2287 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":"Rhett Jones",
+      "title":"Jovem indiano ameaçou explodir aeroporto de Miami para que FBI investigasse o roubo de seus bitcoins",
+      "description":"Provavelmente, esta não é a melhor maneira de conseguir a atenção do FBI. Vários veículos de imprensa na Índia noticiaram durante o final de semana que um garoto de 18 anos do distrito de Jalaun, na Índia, que não teve seu nome revelado está sendo Getty de vá…",
+      "url":"https://gizmodo.uol.com.br/jovem-indiano-ameacou-explodir-aeroporto-de-miami-para-que-fbi-investigasse-o-roubo-de-seus-bitcoins/",
+      "urlToImage":"https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/11/bitcoin-getty-1000x563.jpg",
+      "publishedAt":"2018-11-05T20:33:20Z",
+      "content":"Provavelmente, esta não é a melhor maneira de conseguir a atenção do FBI. Vários veículos de imprensa na Índia noticiaram durante o final de semana que um garoto de 18 anos do distrito de Jalaun, na Índia, que não teve seu nome revelado está sendo Getty de vá… [+2569 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":"Rhett Jones",
+      "title":"Jovem indiano ameaçou explodir aeroporto de Miami para que FBI investigasse o roubo de seus bitcoins",
+      "description":"Provavelmente, esta não é a melhor maneira de conseguir a atenção do FBI. Vários veículos de imprensa na Índia noticiaram durante o final de semana que um garoto de 18 anos do distrito de Jalaun, na Índia, que não teve seu nome revelado está sendo acusado de …",
+      "url":"https://gizmodo.uol.com.br/jovem-indiano-ameaca-explodir-aeroporto-miami-bitcoins/",
+      "urlToImage":"https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/11/bitcoin-getty.jpg",
+      "publishedAt":"2018-11-05T20:33:08Z",
+      "content":"Provavelmente, esta não é a melhor maneira de conseguir a atenção do FBI. Vários veículos de imprensa na Índia noticiaram durante o final de semana que um garoto de 18 anos do distrito de Jalaun, na Índia, que não teve seu nome revelado está sendo acusado de … [+2593 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Internetworld.de"
+      },
+      "author":"internetworld.de",
+      "title":"Der Bitcoin wird 10 Jahre alt",
+      "description":"Bitcoins gelten als eine der großen wirtschaftlichen Phänomene unserer Zeit. Experten sehen in dem technischen Mechanismus hinter der Digitalwährung die Lösung für viele Sicherheitsprobleme. Wir werfen einen Blick auf die Meilensteine der vergangenen zehn Jah…",
+      "url":"https://www.internetworld.de/technik/bitcoin/bitcoin-10-jahre-alt-1594835.html",
+      "urlToImage":"https://www.internetworld.de/img/9/9/7/2/6/9/Bitcoin_w1200_h629.jpg",
+      "publishedAt":"2018-11-05T12:37:56Z",
+      "content":"Die Digitalwährung Bitcoin ist zu einem der großen wirtschaftlichen Phänomene unserer Zeit geworden. Ihr sagenhafter Kursanstieg in den vergangenen Jahren befeuerte Träume von schnellem Reichtum, die massiven Wertschwankungen weckten die Angst vor dem Platzen… [+2037 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Donanimhaber.com"
+      },
+      "author":"Ekrem71",
+      "title":"Winklevoss kardeşler 5000 Bitcoin dolandırıldığı iddiasıyla mahkemeye başvurdu",
+      "description":"Bir dönem Facebook üzerinde hak sahibi oldukları iddiasıyla gündeme gelen Winklevoss ikizleri dolandırıldı. Üstelik bugünün parasıyla 30 milyon dolar civarında.",
+      "url":"http://v2.donanimhaber.com/Winklevoss-kardesler-5000-Bitcoin-dolandirildigi-iddiasiyla-mahkemeye-basvurdu--104807",
+      "urlToImage":"https://donanimhaber.com/images/images/haber/104807/600x338Winklevoss-kardesler-5000-Bitcoin-dolandirildigi-iddiasiyla-mahkemeye-basvurdu.jpg",
+      "publishedAt":"2018-11-05T08:00:00Z",
+      "content":"Kripto para dünyasnn en önemli yatrmclarndan ikisi olan Winklevoss ikizleri yeni bir olayla daha gündeme geldi. Ünlü isimler yllar önce 5000 Bitcoin civarnda dolandrld iddiasyla mahkemeye bavurdu. 2012 ylnda yaand iddia edilen olayda ikizlerin kurduu Winklevo… [+1060 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Newsbtc.com"
+      },
+      "author":"Dalmas Ngetich",
+      "title":"BTC/USD Price Analysis: Fate of Nine Bitcoin ETFs to Be Decided After Today",
+      "description":"Encouragingly, the market is bullish and Bitcoin is up printing a three-bar reversal pattern as participants reject lower lows. We expect the recovery to continue this week as the SEC is set to announce the fate of nine Bitcoin ETF as the commenting period co…",
+      "url":"https://www.newsbtc.com/2018/11/05/btc-usd-price-analysis-bitcoin-etfs-sec/",
+      "urlToImage":"https://s3.amazonaws.com/main-newsbtc-images/2018/08/23144815/techanalysis-btc6-bullish.jpg",
+      "publishedAt":"2018-11-05T02:00:52Z",
+      "content":"Encouragingly, the market is bullish and Bitcoin is up printing a three-bar reversal pattern as participants reject lower lows. We expect the recovery to continue this week as the SEC is set to announce the fate of nine Bitcoin ETF as the commenting period co… [+2843 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Abril.com.br"
+      },
+      "author":"Karla Mamona",
+      "title":"Apenas 1 em cada 4 bitcoins mudaram de mãos em seis meses",
+      "description":"Trata-se de uma grande mudança em relação ao fim de 2017, quando cerca de metade de todos esses bitcoins estavam ativos",
+      "url":"https://exame.abril.com.br/mercados/apenas-1-em-cada-4-bitcoins-mudaram-de-maos-em-seis-meses/",
+      "urlToImage":"https://abrilexame.files.wordpress.com/2017/12/2017-12-11t173953z_1_lynxmpedba1ad_rtroptp_4_macro-bce-bitcoin-e1513181301528.jpg?quality=70&strip=info&w=680&h=453&crop=1",
+      "publishedAt":"2018-11-04T10:03:44Z",
+      "content":"(Bloomberg) — A volatilidade pode até ter voltado aos mercados financeiros globais, mas apenas um em cada quatro bitcoins não minerados foram transferidos entre os endereços digitais anônimos que os guardam nos últimos seis meses. Trata-se de uma grande mudan… [+2653 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Gizmodo.com.au"
+      },
+      "author":"Brian Kahn on Earther, shared by Andrew Couts to Gizmodo",
+      "title":"Mining Bitcoin Can Be More Of An Energy Drain Than Actual Mining",
+      "description":"Cryptocurrency and precious metals share some similarities. Libertarians love them. Their values are social constructs. They’re mined. And accomplishing said mining takes a ton of energy. More »",
+      "url":"https://www.gizmodo.com.au/2018/11/mining-bitcoin-can-be-more-of-an-energy-drain-than-actual-mining/",
+      "urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_768/pxd2yeaxxzgypsorbm5m.jpg",
+      "publishedAt":"2018-11-05T20:00:00Z",
+      "content":"Cryptocurrency and precious metals share some similarities. Libertarians love them. Their values are social constructs. Theyre mined. And accomplishing said mining takes a ton of energy. But a new study published on Monday in Nature shows that crypto mining i… [+3733 chars]"
+    },
+    {
+      "source":{
+        "id":"crypto-coins-news",
+        "name":"Crypto Coins News"
+      },
+      "author":"Joseph Young",
+      "title":"Strong Demand: Crypto Hedge Funds are Still Raising $100 Million+",
+      "description":"Throughout 2018, the cryptocurrency market has lost 75 percent of its valuation. Yet, crypto hedge funds are raising hundreds of millions of dollars from accredited investors and institutions. On November 1, CCN reported that Grayscale Investments, a subsidia…",
+      "url":"https://www.ccn.com/strong-demand-crypto-hedge-funds-are-still-raising-100-million/",
+      "urlToImage":"https://www.ccn.com/wp-content/uploads/2018/08/goldman-sachs-bitcoin-wall-street-suit-piggy-bank.jpg",
+      "publishedAt":"2018-11-04T15:30:00Z",
+      "content":"Throughout 2018, the cryptocurrency market has lost 75 percent of its valuation. Yet, crypto hedge funds are raising hundreds of millions of dollars from accredited investors and institutions. On November 1, CCN reported that Grayscale Investments, a subsidia… [+3175 chars]"
+    },
+    {
+      "source":{
+        "id":"cnn",
+        "name":"CNN"
+      },
+      "author":"Paul R. La Monica, CNN Business",
+      "title":"Investors think too highly of America, and Millennials have too much cash, survey finds",
+      "description":"US investors think way too highly of America. Millennials have more cash than they need and not enough stocks. And nobody actually thinks owning bitcoin is a good idea.",
+      "url":"https://www.cnn.com/2018/11/05/investing/legg-mason-investor-survey/index.html",
+      "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/181102165002-legg-mason-investor-survey-super-tease.jpg",
+      "publishedAt":"2018-11-05T13:28:23Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"N-tv.de"
+      },
+      "author":"n-tv NACHRICHTEN",
+      "title":"Mehrheit hält Kauf für riskant: Verbraucher haben Zweifel an Cybergeld",
+      "description":"Vor einem Jahr noch war der Hype um Kryptowährungen in vollem Gange. Mittlerweile ist es ruhig um Bitcoin und Co. geworden. Bei den Verbrauchern in Deutschland überwiegt die Skepsis gegenüber dem Cybergeld. Doch einige reizt es dennoch - vor allem aus einem G…",
+      "url":"https://www.n-tv.de/wirtschaft/Verbraucher-haben-Zweifel-an-Cybergeld-article20703566.html",
+      "urlToImage":"https://bilder3.n-tv.de/img/incoming/crop20703570/0421325828-cImg_16_9-w1200/imago85916624h.jpg",
+      "publishedAt":"2018-11-04T07:19:19Z",
+      "content":"Wirtschaft Vor einem Jahr noch war der Hype um Kryptowährungen in vollem Gange. Mittlerweile ist es ruhig um Bitcoin und Co. geworden. Bei den Verbrauchern in Deutschland überwiegt die Skepsis gegenüber dem Cybergeld. Doch einige reizt es dennoch - vor allem … [+2759 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Newsbtc.com"
+      },
+      "author":"Ricardo Esteves",
+      "title":"Bitcoin Bulls Win Battle at $6,400 Resistance, Resume Range Trading",
+      "description":"Bitcoin shed some of the gains made earlier in the day, erasing $40 from its daily high at $6,500. The BTC/USD pair trades at $6,460 in a ranging market with support at $6,300. A significant bearish trend line may have been thwarted as the market moves above …",
+      "url":"https://www.newsbtc.com/2018/11/05/bitcoin-bulls-win-battle-at-6400-resistance-resume-range-trading/",
+      "urlToImage":"https://s3.amazonaws.com/main-newsbtc-images/2018/10/18193619/Celebrity.jpg",
+      "publishedAt":"2018-11-05T23:05:24Z",
+      "content":"Bitcoin shed some of the gains made earlier in the day, erasing $40 from its daily high at $6,500. The BTC/USD pair trades at $6,460 in a ranging market with support at $6,300. A significant bearish trend line may have been thwarted as the market moves above … [+2549 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Forbes.com"
+      },
+      "author":"Michael del Castillo, Forbes Staff, Michael del Castillo, Forbes Staff https://www.forbes.com/sites/michaeldelcastillo/",
+      "title":"Former State Blockchain Directors Partner With Deloitte To Enhance Citizen Control Over Government-Issued IDs",
+      "description":"Two former Illinois state directors launched their own blockchain identity startup, and announced thier first partnership with a major enterprise.",
+      "url":"https://www.forbes.com/sites/michaeldelcastillo/2018/11/05/former-state-blockchain-directors-partner-with-deloitte-to-enhance-citizen-control-over-government-issued-ids/",
+      "urlToImage":"https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5be06a084bbe6f78bda6f87e%2F960x0.jpg",
+      "publishedAt":"2018-11-05T17:00:09Z",
+      "content":"Attest co-founders Cab Morris and Jennifer O'Rourke at their Chicago Loop offices in November 2018 Brett Scarola Cab Morris and Jennifer ORourke have been working for two years to give their fellow United States citizensand Facebook usersmore control over the… [+13487 chars]"
+    }
+  ]
+}
